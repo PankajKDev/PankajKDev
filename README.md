@@ -1,9 +1,17 @@
-<h1 align="center">Hi there, I'm Pankaj 👋</h1>
+
+<h1 align="center">Hola! I'm Pankaj 👋</h1>
 
 ### 👨‍💻 About Me
-a passionate web developer who is expanding his knowledge through backend and frontend.My goal is to strengthen my skills and lead a team of devs to create EXTRAORDINARY APPS in future.
-- eager to join new projects and create a valuable network.
-- If you have any questions or would like to invite me to your project. Reach me through  ![Mail](mailto:pankajk.dev0000@gmail.com)
+
+A passionate web developer expanding my knowledge across the full stack. My goal is to hone my skills and, one day, lead a team of developers to create extraordinary applications.
+
+---
+
+### What I'm Looking For
+- 💡 Eager to join new projects and create a valuable network.
+- 🤝 Open to collaborations and any queries.
+
+---
 
 ### 🛠️ My Tech Stack
 
@@ -25,7 +33,7 @@ a passionate web developer who is expanding his knowledge through backend and fr
 #### **✓ [IngredAI](https://ingredai.fit/)**
 An AI-powered recipe assistant built with Next.js. It helps users generate, organize, and discover safe, delicious, and easy-to-follow recipes based on their available ingredients and preferences. It can also create custom workouts based on user requirements.
 
-#### **✓ [Pluto AI](https://pluto-ai.vercel.app/)**
+#### **✓ [Pluto AI](https://pluto-interview.vercel.app/)**
 An advanced AI interviewer from the future built on Next.js. It leverages Vapi and Gemini to conduct interviews, and can be used to create and attempt interviews, assess user performance, and suggest areas for improvement.
 
 #### **✓ [Meraki](https://meraki-productivity.vercel.app/)**
