@@ -42,15 +42,6 @@ IngredAI is an AI-powered recipe assistant built with Next.js. It helps users ge
 
 
 
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajKDev&show_icons=true&theme=onedark&hide=prs" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKDev&layout=compact&theme=onedark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajKDev&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
 
 ### 🤝 Connect with Me
 
