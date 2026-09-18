@@ -30,15 +30,14 @@ A passionate web developer expanding my knowledge across the full stack. My goal
 
 ### 🚀 Featured Projects
 
-#### **✓ [IngredAI](https://ingredai.fit/)**
-An AI-powered recipe assistant built with Next.js. It helps users generate, organize, and discover safe, delicious, and easy-to-follow recipes based on their available ingredients and preferences. It can also create custom workouts based on user requirements.
+#### **✓ [Ambrosia](https://ambrosia.sainte.cloud/)**
+Journaling simplified for ADHD. A calmer way to understand your days — quick mood check-ins, one-tap thought capture, and gentle weekly insights that feel like help, not homework.
 
-#### **✓ [Pluto AI](https://pluto-interview.vercel.app/)**
-An advanced AI interviewer from the future built on Next.js. It leverages Vapi and Gemini to conduct interviews, and can be used to create and attempt interviews, assess user performance, and suggest areas for improvement.
+#### **✓ [Morena](https://morena.sainte.cloud/)**
+Create highly customizable link-in-bio pages. One link to rule them all — main character energy only.
 
-#### **✓ [Meraki](https://meraki-productivity.vercel.app/)**
-A productivity app built using Next.js. It allows users to create tasks, notes, and use a Pomodoro timer to help them reach their productivity goals.
-
+#### **✓ [IngredAI](https://ingredai.vercel.app/)**
+IngredAI is an AI-powered recipe assistant built with Next.js. It helps users generate, organize, and discover safe, delicious, and easy-to-follow recipes based on their available ingredients and preferences and create workouts as per user requirements.
 <br>
 
 
