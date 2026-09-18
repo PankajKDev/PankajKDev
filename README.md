@@ -65,16 +65,12 @@ Create highly customizable link-in-bio pages. One link to rule them all — main
 
 #### **✓ [IngredAI](https://ingredai.vercel.app/)**
 
-IngredAI is an AI-powered recipe assistant built with Next.js. It helps users generate, organize, and discover safe, delicious, and easy-to-follow recipes based on their available ingredients and [...] 
+IngredAI is an AI-powered recipe assistant built with Next.js. It helps users generate, organize, and discover safe, delicious, and easy-to-follow recipes based on their available ingredients.
 
 <br>
 
 ### 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajKDev&show_icons=true&theme=onedark&hide_border=true&rank_icon=github&cache_seconds=1800&v=2" height="180" alt="Pankaj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKDev&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800&v=2" height="180" alt="Pankaj's Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PankajKDev&theme=onedark&hide_border=true" alt="Pankaj's GitHub Streak" />
